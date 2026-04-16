@@ -1,0 +1,5 @@
+Parametro,Valor,Error,Unidad,Interpretacion
+y1,22.07680351304583,0.1883361708571799,degC,Primera meseta
+y2,60.70681890284261,0.14883163575160446,degC,Segunda meseta
+t_star,239.6512363247723,0.6452499743792086,s,Tiempo caracteristico de transicion
+k,0.0789090127862137,0.0034989427634582126,s^-1,Rapidez de la transicion
